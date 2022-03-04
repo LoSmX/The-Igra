@@ -27,7 +27,7 @@ Updatovanje Task moze da se odradi u main branchu.
 
 ### Adri Tasks:
 - [ ] T003 odradi Unity Essentials tutorial koji se nalazi u Links folderu
-- [ ] T004 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u filu (req T000 i T001 done).
+- [ ] T004 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u unityju (req T000 i T001 done).
 
 ### Togehter Tasks:
 - [ ] T004 Game Specification
