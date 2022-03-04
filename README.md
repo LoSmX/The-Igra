@@ -17,13 +17,13 @@ Updatovanje Task moze da se odradi u main branchu.
 
 ## Task List
 ### Unassigned Tasks:
-- [ ]
+- [ ] T000: opis primer
 
 ### Stalled Tasks:
 - [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
 
 ### Milos Tasks:
-- [ ] T001 Setup project (WIP, 4.3.22)
+- [ ] T005: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse (WIP)
 
 ### Adri Tasks:
 - [ ] T003 odradi Unity Essentials tutorial koji se nalazi u Links folderu
@@ -34,3 +34,4 @@ Updatovanje Task moze da se odradi u main branchu.
 
 ### Done Tasks
 - [x] T000 Setup repo
+- [x] T001 Setup project
