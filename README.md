@@ -13,19 +13,24 @@ Dokumentacija ce se voditi poput ToDo liste na dnu ovog README-ja. Developer bi 
 ## Git workflow:
 Svaki promena u git repozitoriju bi trebala da se prvo uradi u novom brancu. Taj branc bi trebao da sezove po borju taskia i kratkim opisu. Na primer: T001_setup_unity_project. To olaksava svima odredjivati koji branc pripada kojem tasku. Commitovi trebali bi isto da pocnu sa Task brojom. Primer: T001: adds projectfiles. Nakon sto je task zavrsen se otvara PR request koji mora drugi konributre da reviewa i da potvrdi da bi moglo sve da se merga u main branch.
 
+Updatovanje Task moze da se odradi u main branchu.
+
 ## Task List
-### Unassigned ToDos:
+### Unassigned Tasks:
 - [ ]
 
-### Stalled ToDos:
+### Stalled Tasks:
 - [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
 
-### Milos ToDos:
-- [ ] T000 Setup repo (WIP, 4.3.22)
+### Milos Tasks:
 - [ ] T001 Setup project (WIP, 4.3.22)
 
-### Adri ToDos:
+### Adri Tasks:
 - [ ] T003 odradi Unity Essentials tutorial koji se nalazi u Links folderu
+- [ ] T004 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u filu (req T000 i T001 done).
 
-### Togehter ToDos:
+### Togehter Tasks:
 - [ ] T004 Game Specification
+
+### Done Tasks
+- [x] T000 Setup repo
