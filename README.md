@@ -8,23 +8,24 @@ Ovaj repositori se sastavlja od jednostavne folder strukture:
 
 ## How to contribute
 Ima vise mogucnosti raditi na ovom repositoriju. Jako je bitno dokumentirati sadasnji i budci rad.
-Dokumentacija ce se voditi poput ToDo liste na dnu ovog README-ja. Developer bi trebao da obelezi na
-kojiem ToDo radi i koji je trenjutni status isto kao do kada se planira obaviti. U sledecem clanku se opisuju razne opcije:
+Dokumentacija ce se voditi poput ToDo liste na dnu ovog README-ja. Developer bi trebao da obelezi na kojiem ToDo time da si kopira task u svoju listu i stavi je u WIP (Work in progress). Staviti u WIP se tako radi da se nadoveze mali tag Sa statusom i planiranim datumom zavrsetka tog taska. Primer (WIP, 4.3.22). Ako iz nekog slucaja neki task blokira mora se prebaciti u stalled, sa komentaraom ko je radio na njemu zasto je zaustavljen i pod kojim konicijama se moze nastaviti.
 
-### Status
-- **Open:** Otvoreni ToDosi su ToDosi koji trebaju da se urade ali nisu jos zapoceti. Svaki kontributer moze asajnati si
-otvoreni ToDo. Da bi si Assignao ToDo mora zapisati svoje ime i datum do kada planira zavrsiti taj todo. Taj datum je bitan
-sa detekciju probleme i dati timu sanse preuzeti ToDo ako misili da moze to ranije zavrsiti. Sve po dogovoru.
-- **WIP (Work in Progress):** WIP je tag koji kaze da vec nekko radi na tom ToDo pored Tega treb da pise ime i datum.
-Broj WIP jedne osobe bi trebao da bude maksimalno dva.
-- **Stalled:** Ako se developer odluci da stane sa jednim taskom mora da stavi status na stalled. Bilo bi od pomoci da
-kratko opise zasto je stao i kad planira nastaviti ga. Nemora biti datum moze biti kondicija. Drugi developeri mogu da
-pregledaju problem stalled taskova i da pomognu.
-- **Done:** Done su Taskovi koji su zavrseni. Nakon kratke provere mogu da se zatvore. Time da se Prebace odredjenu sekciju "Closed".
+## Git workflow:
+Svaki promena u git repozitoriju bi trebala da se prvo uradi u novom brancu. Taj branc bi trebao da sezove po borju taskia i kratkim opisu. Na primer: T001_setup_unity_project. To olaksava svima odredjivati koji branc pripada kojem tasku. Commitovi trebali bi isto da pocnu sa Task brojom. Primer: T001: adds projectfiles. Nakon sto je task zavrsen se otvara PR request koji mora drugi konributre da reviewa i da potvrdi da bi moglo sve da se merga u main branch.
 
-## ToDos:
-- [ ] Setup repo (M, WIP, 4.3.22)
-- [ ] Setup project (M, WIP, 4.3.22)
-- [ ] Game Specification (Open)
+## Task List
+### Unassigned ToDos:
+- [ ]
 
-## Closed:
+### Stalled ToDos:
+- [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
+
+### Milos ToDos:
+- [ ] T000 Setup repo (WIP, 4.3.22)
+- [ ] T001 Setup project (WIP, 4.3.22)
+
+### Adri ToDos:
+- [ ] T003 odradi Unity Essentials tutorial koji se nalazi u Links folderu
+
+### Togehter ToDos:
+- [ ] T004 Game Specification
