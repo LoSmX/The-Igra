@@ -23,7 +23,8 @@ Updatovanje Task moze da se odradi u main branchu.
 - [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
 
 ### Milos Tasks:
-- [ ] M003: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse (WIP)
+- [ ] M002: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse (WIP)
+- [ ] M003: Check ho to use git with unity correctly (WIP)
 
 ### Adri Tasks:
 - [ ] A000 odradi Unity Essentials tutorial koji se nalazi u Links folderu
