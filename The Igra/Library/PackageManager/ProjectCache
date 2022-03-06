@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637822051065871233
+      ticks: 637822058688092261
     m_Hash: 3040187447
   m_LockFileStatus:
     m_FilePath: C:/Users/Jeyem/Desktop/GameDev/The Igra/The Igra/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637822051065881243
+      ticks: 637822058688102265
     m_Hash: 4187983264
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
