@@ -29,6 +29,8 @@ Updatovanje Task moze da se odradi u main branchu.
 ### Adri Tasks:
 - [ ] A000 odradi Unity Essentials tutorial koji se nalazi u Links folderu
 - [ ] A001 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u unityju (req T000 i T001 done).
+- [ ] A002 Odradi Unit1 u links folderu do koraka sa project designom.  
+
 
 ### Togehter Tasks:
 - [ ] T000 Add Adri to the repository and show branchs and pullrequests
