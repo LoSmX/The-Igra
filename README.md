@@ -33,9 +33,9 @@ Updatovanje Task moze da se odradi u main branchu.
 
 
 ### Togehter Tasks:
-- [ ] T000 Add Adri to the repository and show branchs and pullrequests
 - [ ] T001 Game Specification
 
 ### Done Tasks
+- [x] T000 Add Adri to the repository and show branchs and pullrequests
 - [x] M000 Setup repo
 - [x] M001 Setup project
