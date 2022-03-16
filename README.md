@@ -2,9 +2,13 @@
 
 ## Ovaj repository
 Ovaj repositori se sastavlja od jednostavne folder strukture:
-- **docs:** Ovaj folder sadrzava sve dokumente i formulare bitne za projekat.
+- **Cheatsheet:** U ovom folderu su sacuvani razni cheat sheetovi.
+- **Code:** U ovom folderu je sacuvan razni Code koji moze biti potreban za projekat.
+- **Docs:** Ovaj folder sadrzava sve dokumente i formulare bitne za projekat.
+- **Img:** Ovaj Foder sadrzava razne slike.
+- **Links:** U ovom fodleru su svi potrebni linkovi skupljeni koji sadrzavaju tutoriale i slicno.
 - **The Igra:** U ovom folderu se nalaze svi podatci Unity projekta.
-- **links:** U ovom fodleru su svi potrebni linkovi skupljeni koji sadrzavaju tutoriale i slicno.
+- **Unity Config:** Ovaj fodler sadrzi razne konfiguracije.
 
 ## How to contribute
 Ima vise mogucnosti raditi na ovom repositoriju. Jako je bitno dokumentirati sadasnji i budci rad.
@@ -13,7 +17,16 @@ Dokumentacija ce se voditi poput ToDo liste na dnu ovog README-ja. Developer bi 
 ## Git workflow:
 Svaki promena u git repozitoriju bi trebala da se prvo uradi u novom brancu. Taj branc bi trebao da sezove po borju taskia i kratkim opisu. Na primer: T001_setup_unity_project. To olaksava svima odredjivati koji branc pripada kojem tasku. Commitovi trebali bi isto da pocnu sa Task brojom. Primer: T001: adds projectfiles. Nakon sto je task zavrsen se otvara PR request koji mora drugi konributre da reviewa i da potvrdi da bi moglo sve da se merga u main branch.
 
-Updatovanje Task moze da se odradi u main branchu.
+## Game Dev Workflow
+Game Development Workflow se sastaje od cetri glavna dela. To su:
+- Concept
+- Pre-Production
+- Production
+- Post-Producction
+
+Slika bolje pokazuje vremenski preklop tih cetri dela i njihove manje Zadatke.
+
+![Game Development Workflow](img/workflow.png)
 
 ## Task List
 ### Unassigned Tasks:
@@ -23,14 +36,12 @@ Updatovanje Task moze da se odradi u main branchu.
 - [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
 
 ### Milos Tasks:
-- [ ] M002: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse (WIP)
 - [ ] M003: Check ho to use git with unity correctly (WIP)
 
 ### Adri Tasks:
 - [ ] A000 odradi Unity Essentials tutorial koji se nalazi u Links folderu
-- [ ] A001 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u unityju (req T000 i T001 done).
-- [ ] A002 Odradi Unit1 u links folderu do koraka sa project designom.  
-
+- [ ] A001 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u unity-ju
+- [ ] A002 Zapocni Pathway Junior Programmer koji se nalazi pod Links/Tutorials/Pathway_Junior_Programmer
 
 ### Togehter Tasks:
 - [ ] T001 Game Specification
@@ -39,3 +50,4 @@ Updatovanje Task moze da se odradi u main branchu.
 - [x] T000 Add Adri to the repository and show branchs and pullrequests
 - [x] M000 Setup repo
 - [x] M001 Setup project
+- [x] M002: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse
