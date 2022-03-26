@@ -26,7 +26,7 @@ Game Development Workflow se sastaje od cetri glavna dela. To su:
 
 Slika bolje pokazuje vremenski preklop tih cetri dela i njihove manje Zadatke.
 
-![Game Development Workflow](img/workflow.png)
+![Game Development Workflow](Img/workflow.png)
 
 ## Task List
 ### Unassigned Tasks:
