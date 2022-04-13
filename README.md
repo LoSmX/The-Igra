@@ -36,12 +36,15 @@ Slika bolje pokazuje vremenski preklop tih cetri dela i njihove manje Zadatke.
 - [ ] Opis taska: Problem, kad ce se nastaviti. Ime predhodnog developera
 
 ### Milos Tasks:
-- [ ] M003: Check ho to use git with unity correctly (WIP)
+#### Mandatory:
+- [x] M004: Check all Unity packegase (Unity regestry) document which are usefull. Research better solutions.
 
 ### Adri Tasks:
-- [ ] A000 odradi Unity Essentials tutorial koji se nalazi u Links folderu
+#### Mandatory
 - [ ] A001 upoznaj se sa repositorijem kloniraj ga i otvori Projekat u unity-ju
 - [ ] A002 Zapocni Pathway Junior Programmer koji se nalazi pod Links/Tutorials/Pathway_Junior_Programmer
+#### Optional
+- [ ] A000 odradi Unity Essentials tutorial koji se nalazi u Links folderu
 
 ### Togehter Tasks:
 - [ ] T001 Game Specification
@@ -51,3 +54,4 @@ Slika bolje pokazuje vremenski preklop tih cetri dela i njihove manje Zadatke.
 - [x] M000 Setup repo
 - [x] M001 Setup project
 - [x] M002: Pripremiti formular i pronaci Linkove za tutoriale i download stranice za assetse
+- [x] M003: Check how to use git with unity correctly (WIP)
